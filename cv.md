@@ -19,3 +19,9 @@
 <br>
 
 ## [Examples of my code.](https://github.com/Trickster69 "GitGub репозиторий")
+
+<br>
+
+## I have a technical secondary special education. And a speciality "the Technician-Builder"
+
+
