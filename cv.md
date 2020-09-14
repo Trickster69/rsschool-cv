@@ -24,4 +24,6 @@
 
 ## I have a technical secondary special education. And a speciality "the Technician-Builder"
 
+<br>
 
+## Now my English Level A2+. But I continue to study. I hope by the end of training in RS it will be B1.
