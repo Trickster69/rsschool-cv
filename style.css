@@ -1,0 +1,59 @@
+.container {
+  margin: 0 auto;
+  width: 1100px;
+}
+
+.photo_name {
+  display: flex;
+}
+
+.my_photo {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.my_photo img {
+  height: 400px;
+  border-radius: 5%;
+}
+
+.name {
+  width: 60%;
+}
+
+.my_name {
+  padding: 40px;
+  font: 30px sans-serif;
+  font-weight: 700;
+}
+
+.about_me {
+  padding: 40px;
+  font: 20px sans-serif;
+}
+
+.contacts {
+  display: flex;
+}
+
+.email {
+  margin-right: 80px;
+  margin-left: 40px;
+}
+
+.main_part {
+  margin: 10px;
+}
+
+.main_part li {
+  font: 1em sans-serif;
+}
+
+.main_part h3 {
+  margin-left: 30px;
+}
+
+.main_part strong {
+  font-size: 20px;
+  margin-left: 20px;
+}
