@@ -14,7 +14,7 @@ body {
 .container {
 
   margin: 0 auto;
-  width: 1100px;
+  max-width: 1100px;
   background-color: #fbfbfb;
   border-radius: 10px;
 }
@@ -24,18 +24,19 @@ body {
 }
 
 .my_photo {
+  max-width: 350px;
   padding-top: 10px;
   padding-left: 10px;
 }
 
 .my_photo img {
-  height: 380px;
+  width: 100%;
   border-radius: 5%;
 }
 
 .name {
   font: 27px sans-serif;
-  width: 60%;
+  /* max-width: 60%; */
 }
 
 .my_name {
@@ -51,6 +52,10 @@ body {
 .about_me {
   padding: 0px 30px 17px 30px;
   font: 20px sans-serif;
+}
+
+.about__text {
+  padding: 0px 30px 17px 20px;
 }
 
 .social_link {
